@@ -10,5 +10,4 @@ To play the game:
 Clone the repository to your local machine.
 Open the index.html file in a web browser.
 Click on a square to place your mark.
-The AI player will then place its mark.
-Continue playing until one player gets three of their marks in a row, column, or diagonal.
+
